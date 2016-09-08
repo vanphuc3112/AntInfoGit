@@ -1,0 +1,6 @@
+{
+	"current_version" : 12,
+	"need_update" : true,
+	"desc" : "Update new version with new map, new adventure.",
+	"haveto" : false
+}
