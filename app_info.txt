@@ -1,6 +1,6 @@
 {
-	"current_version" : 16,
+	"current_version" : 20,
 	"need_update" : true,
-	"desc" : "Update Share Facebook.",
+	"desc" : "Update UI.",
 	"haveto" : true
 }
