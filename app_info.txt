@@ -1,6 +1,6 @@
 {
-	"current_version" : 29,
+	"current_version" : 31,
 	"need_update" : true,
-	"desc" : "Update UI.",
-	"haveto" : true
+	"desc" : "Update UI of some button.",
+	"haveto" : false
 }
