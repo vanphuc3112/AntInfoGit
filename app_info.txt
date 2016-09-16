@@ -1,5 +1,5 @@
 {
-	"current_version" : 33,
+	"current_version" : 35,
 	"need_update" : true,
 	"desc" : "Update UI of some button.",
 	"haveto" : false
