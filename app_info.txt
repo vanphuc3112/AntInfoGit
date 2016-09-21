@@ -1,6 +1,6 @@
 {
-	"current_version" : 44,
+	"current_version" : 53,
 	"need_update" : true,
-	"desc" : "Fix Bug Game lag.",
+	"desc" : "Add Some change fighting.",
 	"haveto" : false
 }
