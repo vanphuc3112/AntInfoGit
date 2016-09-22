@@ -1,5 +1,5 @@
 {
-	"current_version" : 53,
+	"current_version" : 61,
 	"need_update" : true,
 	"desc" : "Add Some change fighting.",
 	"haveto" : false
