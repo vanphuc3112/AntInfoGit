@@ -1,6 +1,6 @@
 {
-	"current_version" : 62,
+	"current_version" : 64,
 	"need_update" : true,
-	"desc" : "Add Some change fighting.",
+	"desc" : "Some change in screen Army.",
 	"haveto" : false
 }
