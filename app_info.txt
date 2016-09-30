@@ -1,5 +1,5 @@
 {
-	"current_version" : 64,
+	"current_version" : 80,
 	"need_update" : true,
 	"desc" : "Some change in screen Army.",
 	"haveto" : false
