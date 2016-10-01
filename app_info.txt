@@ -1,6 +1,6 @@
 {
-	"current_version" : 80,
+	"current_version" : 81,
 	"need_update" : true,
-	"desc" : "Some change in screen Army.",
+	"desc" : "Some change in Graphics.",
 	"haveto" : false
 }
