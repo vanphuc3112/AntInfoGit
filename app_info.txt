@@ -1,6 +1,6 @@
 {
-	"current_version" : 82,
+	"current_version" : 83,
 	"need_update" : true,
-	"desc" : "Some change in Graphics.",
+	"desc" : "Make game start easier.",
 	"haveto" : false
 }
