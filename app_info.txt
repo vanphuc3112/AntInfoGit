@@ -1,6 +1,6 @@
 {
-	"current_version" : 84,
+	"current_version" : 87,
 	"need_update" : true,
-	"desc" : "New update with more feature.",
+	"desc" : "Update Map 9 easier.",
 	"haveto" : false
 }
