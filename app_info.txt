@@ -1,6 +1,6 @@
 {
-	"current_version" : 87,
+	"current_version" : 89,
 	"need_update" : true,
-	"desc" : "Update Map 9 easier.",
+	"desc" : "New Maps, New Lands\nin the other side of the river.",
 	"haveto" : false
 }
