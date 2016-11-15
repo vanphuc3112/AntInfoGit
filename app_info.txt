@@ -1,6 +1,6 @@
 {
-	"current_version" : 89,
+	"current_version" : 91,
 	"need_update" : true,
-	"desc" : "New Maps, New Lands\nin the other side of the river.",
+	"desc" : "New Maps, Optimize game perfomance.",
 	"haveto" : false
 }
