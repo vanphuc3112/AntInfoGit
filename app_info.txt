@@ -1,6 +1,6 @@
 {
-	"current_version" : 91,
+	"current_version" : 93,
 	"need_update" : true,
-	"desc" : "New Maps, Optimize game perfomance.",
+	"desc" : "Optimize game perfomance\n and new update for Forest land",
 	"haveto" : false
 }
